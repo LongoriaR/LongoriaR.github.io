@@ -5,6 +5,6 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "weekly_page"
-      href: weekly_page.Rmd
+      href: weekly_page.html
       
   
